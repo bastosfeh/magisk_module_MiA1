@@ -1,0 +1,8 @@
+id=kh007im_magisk-MiA1
+name=MiA1 for everyday
+version=v1
+versionCode=1
+author=MattKhojim
+description=Simple Module for MiA1
+donate=paypal(mattkhojim@gmail.com)
+minMagisk=1500
