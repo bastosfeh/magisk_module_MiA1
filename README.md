@@ -1,6 +1,6 @@
 # MiA1
 
-Various Setting for MiA1
+Various Setting for MiA1 (template 1500)
 
 :: Enable Camera API 2
 :: Enable camera eis
